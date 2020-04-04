@@ -8,7 +8,7 @@ module.exports = {
   copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-160371937-1',
   useKatex: false,
   menu: [
     {
@@ -34,19 +34,19 @@ module.exports = {
     bio: 'SOFTWARE DEVELOPER | DEVOPS ASPIRANT | ROCKET LEAGUE PLAYER.',
     contacts: {
       email: 'adev.ninja@gmail.com',
-      facebook: 'https://www.facebook.com/aderito.xavier.35',
-      telegram: '#',
-      twitter: '#',
-      github: 'https://gist.github.com/pars3c',
+      facebook: 'aderito.xavier.35',
+      telegram: '',
+      twitter: '',
+      github: 'pars3c',
       rss: '',
       vkontakte: '',
-      linkedin: 'https://www.linkedin.com/in/believer-of-the-monolith/',
-      instagram: '#',
+      linkedin: 'believer-of-the-monolith',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: 'https://www.youtube.com/channel/UCHrIkwNRqQDHJlUj_6Q34XQ/',
+      youtube: 'UCHrIkwNRqQDHJlUj_6Q34XQ',
       soundcloud: '',
     }
   }
