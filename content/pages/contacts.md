@@ -12,15 +12,15 @@ socialImage: "/media/image-4.jpg"
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
   <div class="form-group input-group-lg">
     <label for="contact-email">Email address</label>
-    <input type="email" class="form-control" id="contact-email" placeholder="name@example.com">
+    <input type="email" name="email" class="form-control" id="contact-email" placeholder="name@example.com">
   </div>
   <div class="form-group input-group-lg">
     <label for="contact-subject">Subject</label>
-    <input type="text" class="form-control" id="contact-subject" placeholder="Why do you want to contact me?">
+    <input type="text" name="subject" class="form-control" id="contact-subject" placeholder="Why do you want to contact me?">
   </div>
   <div class="form-group input-group-lg">
     <label for="contact-text">Message</label>
-    <textarea class="form-control" id="contact-text" rows="5"></textarea>
+    <textarea class="form-control" name="message" id="contact-text" rows="5"></textarea>
   </div>
   <input class="btn btn-primary" type="submit" value="Submit">
 </form>
