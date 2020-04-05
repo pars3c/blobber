@@ -7,7 +7,7 @@ draft: false
 # Aderito Xavier
 
 ```
-SOFTWARE DEVELOPER · SECURITY EXPERT · QA TESTER
+SOFTWARE DEVELOPER
 ```
 ## Summary
 
