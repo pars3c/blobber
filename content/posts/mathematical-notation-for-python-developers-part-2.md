@@ -20,7 +20,7 @@ tags:
 
 ![](https://cdn-images-1.medium.com/max/4800/1*ICwlfOw9yQWUXf1bGu1vmQ.png)
 
-In the previous [article](https://medium.com/datadriveninvestor/mathematical-notation-for-python-developers-part-1-1c94599b97cd?source=your_stories_page---------------------------), we went through a basic understanding of what sets are and how their memberships work through simple Python 3 snippets.
+In the previous [article](https://aderito-xavier.com/posts/mathematical-notation-for-python-developers-part-1), we went through a basic understanding of what sets are and how their memberships work through simple Python 3 snippets.
 
 In this part 2 we will keep on understanding more about set relationships using our friend Python 3.
 
