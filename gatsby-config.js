@@ -110,12 +110,6 @@ module.exports = {
             }
           },
           {
-            resolve: `gatsby-plugin-google-adsense`,
-            options: {
-              publisherId: `ca-pub-2667738951481809`
-            }
-          },
-          {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 960,
