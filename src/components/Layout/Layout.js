@@ -28,8 +28,6 @@ const Layout = ({
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
-        <script data-ad-client="ca-pub-6219756028487762" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <meta name="description" content={description} />
         <meta property="og:site_name" content={title} />
         <meta property="og:image" content={metaImageUrl} />
         <meta name="twitter:card" content="summary" />
