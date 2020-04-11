@@ -253,3 +253,15 @@ If A is a **set** and A = {1, 2, 3} then |A| = 3
 
 [https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
 
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6219756028487762"
+     data-ad-slot="7064959154"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
