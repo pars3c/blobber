@@ -5,9 +5,12 @@ slug: lsaidhsai
 draft: true
 date: 2020-04-05T12:44:32.170Z
 description: Git for beginners
-category: tech
+category: "Tech"
 tags:
-  - tech
+  - "Python"
+  - "Mathematics"
+  - "Mathematical Notation with Python"
+  - "Mathematics tutorial"
 ---
 
 
@@ -22,8 +25,7 @@ tags:
 
 
 ## Who Is This Article For
-
-You’ve used Python for long enough to have an idea about why certain things are slow and to have seen technologies like Cython, numpy, and PyPy being discussed as possible solutions. You might also have programmed with other languages and so know that there’s more than one way to solve a performance problem. 
+posts/Elementary-Guide-to-Hashicorp-Nomad-with-Linuxnow that there’s more than one way to solve a performance problem. 
 
 While this book is primarily aimed at people with CPU-bound problems, we also look at data transfer and memory-bound solutions. Typically these problems are faced by scientists, engineers, quants, and academics. 
 
@@ -71,16 +73,23 @@ Imagine you are working on a collaborative project codebase and beside you, ther
 
 ## What is GIT?
 
-According to their own website it means:
+According to their own website:
 >  *Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.*
 
-Still being true, that oversimplification does it no good, there is so much more to it.
+Without all that mambo-jambo Git is a simple key-value database.
 
+You can throw any kind of content into it, directories will be known as trees and files as blobs. 
+
+Once you add content into a Git repository, it will hash that content and gzip it while creating a hash key at the time. That hash key will be used to find the right value within the database.
 
 
 ## Git vs The World
 
-
+Git is not the only distributed version control system (DVCS) out there. Some of the most known alternatives are:
+* Mercurial
+* SVN (Apache Subversion)
+* Monotone
+* Bazaar
 
 ## Starting With The Basics
 
@@ -96,6 +105,8 @@ It is used by GitWeb and is not considered by GitHub or GitLab.
 GitWeb is a web interface for git projects. It can be used to generate a web application with search feature, RSS feed and many others. It can be seen as a native alternative to external services like GitHub.
 
 
+**Objects** folder: Here is where the all the files and directories that you change across time will be stored.
+![s](/media/data-model-1.png)
 
 ## Afterword
 
