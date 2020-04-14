@@ -480,3 +480,14 @@ Introduction to HashiCorp Nomad [https://www.youtube.com/watch?v=s_Fm9UtL4YU](ht
 From Zero to WOW! with Nomad [https://www.youtube.com/watch?v=xl58mjMJjrg](https://www.youtube.com/watch?v=xl58mjMJjrg) — This one helped me the most
 
 Easy and Flexible Application Deployment with HashiCorp Nomad [https://www.youtube.com/watch?v=A6CuZUoINX0](https://www.youtube.com/watch?v=A6CuZUoINX0)
+
+<div id="381411154">
+    <script type="text/javascript">
+        try {
+            window._mNHandle.queue.push(function (){
+                window._mNDetails.loadTag("381411154", "728x90", "381411154");
+            });
+        }
+        catch (error) {}
+    </script>
+</div>
