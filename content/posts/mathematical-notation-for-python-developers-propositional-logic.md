@@ -2,7 +2,7 @@
 template: post
 title: Mathematical Notation for Python Developers | Propositional Logic
 slug: mathematical-notation-for-python-developers-propositional-logic
-draft: true
+draft: false
 date: 2020-04-05T12:44:32.170Z
 description: Learn Propositional Logic with the simplicity of Python.
 category: "Education"
