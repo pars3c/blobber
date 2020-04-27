@@ -45,7 +45,7 @@ I made this article for anyone who is interested in learning mathematical notati
 
 ### AND | Conjunction
 
-*AND expressions are denoted with the symbol *∧ .
+**AND** expressions are denoted with the symbol `∧`.
 
 a ∧ b = a and b
 
@@ -73,7 +73,7 @@ Either a or b must be true in order for an **OR** statement to be true.
 
 ### NOT | Negation
 
-*NOT expressions are denoted with the symbols `¬` or `~`.
+**NOT** expressions are denoted with the symbols `¬` or `~`.
 
 If a = 1 then ~a = 0 or vice versa
 
@@ -115,7 +115,7 @@ a ↑ b = ~(a ∧ b)
 
 ### Implies | Conditional
 
-As the name indicates there is a condition involved. Meaning if “If A then B” or “A implies B”. Implies are denoted with the symbol → .
+As the name indicates there is a condition involved. Meaning if “If A then B” or “A implies B”. Implies are denoted with the symbol `→`.
 
 |0 → 0 = 1| 0 → 1 = 1|1 → 1 = 1|1 → 0 = 0|
 
@@ -125,7 +125,7 @@ As the name indicates there is a condition involved. Meaning if “If A then B�
 
 ### If and Only If | Biconditional
 
-A **biconditional** is a connective that represents the condition “if and only if”, by checking is both propositions have the same value. **Biconditionals** are denoted with the symbol *↔ .
+A **biconditional** is a connective that represents the condition “if and only if”, by checking is both propositions have the same value. **Biconditionals** are denoted with the symbol `↔`.
 
 A ↔ B = (A → B) ∧ (B → A)
 
