@@ -13,7 +13,12 @@ tags:
   - "Mathematics"
   - "Mathematical Notation"
 ---
-
+<style>
+iframe {
+    margin: auto;
+    max-width: 100%!important;
+}
+</style>
 
 
 ![Photo by [Bekky Bekks](https://unsplash.com/@bekky_bekks?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/9956/0*Dmz0oy4cfLT2-oGY)
@@ -48,7 +53,7 @@ Both a and b must be true in order for an **AND** statement to be true or else i
 
 |1 ∧ 0 = 0|0 ∧ 1 = 0|1 ∧ 1 = 1 |0 ∧ 0 = 0|
 
-<iframe height="400px" width="100%" src="https://repl.it/@DevOpsNinja/ThinWeepyGraphics?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="800px" width="100%" src="https://repl.it/@DevOpsNinja/ThinWeepyGraphics?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 
@@ -62,7 +67,7 @@ Either a or b must be true in order for an **OR** statement to be true.
 
 |1 ∨ 0 = 1|0 ∨ 1 = 1|1 ∨ 1 = 1|0 ∨ 0 = 0 |
 
-<iframe height="400px" width="100%" src="https://repl.it/@DevOpsNinja/UnequaledCuteMethod?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="800px" width="100%" src="https://repl.it/@DevOpsNinja/UnequaledCuteMethod?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 
@@ -72,7 +77,7 @@ Either a or b must be true in order for an **OR** statement to be true.
 
 If a = 1 then ~a = 0 or vice versa
 
-<iframe height="400px" width="100%" src="https://repl.it/@DevOpsNinja/CoralGruesomeRouter?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="800px" width="100%" src="https://repl.it/@DevOpsNinja/CoralGruesomeRouter?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 
@@ -94,7 +99,7 @@ The or exclusivity refers to:
 
 If this leaves you a bit confused try this XOR sandbox [http://xor.pw/](http://xor.pw/) you will understand it in no time.
 
-<iframe height="400px" width="100%" src="https://repl.it/@DevOpsNinja/StrangeGrowingEvents?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="800px" width="100%" src="https://repl.it/@DevOpsNinja/StrangeGrowingEvents?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 
@@ -106,7 +111,7 @@ a ↑ b = ~(a ∧ b)
 
 |1 ↑ 0 = 1| 0 ↑ 1= 1|1 ↑ 1= 0| 0 ↑ 0= 1|
 
-<iframe height="400px" width="100%" src="https://repl.it/@DevOpsNinja/QuarterlyWordyInitialization?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="800px" width="100%" src="https://repl.it/@DevOpsNinja/QuarterlyWordyInitialization?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 ### Implies | Conditional
 
@@ -114,7 +119,7 @@ As the name indicates there is a condition involved. Meaning if “If A then B�
 
 |0 → 0 = 1| 0 → 1 = 1|1 → 1 = 1|1 → 0 = 0|
 
-<iframe height="400px" width="100%" src="https://repl.it/@DevOpsNinja/SpecificVapidGigabyte?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="800px" width="100%" src="https://repl.it/@DevOpsNinja/SpecificVapidGigabyte?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 
@@ -126,7 +131,7 @@ A ↔ B = (A → B) ∧ (B → A)
 
 |0 ↔ 0 = 1| 0 ↔ 1 = 0|1 ↔ 1 = 1|1 ↔ 0 = 0|
 
-<iframe height="400px" width="100%" src="https://repl.it/@DevOpsNinja/DryEarlyBlogs?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="800px" width="100%" src="https://repl.it/@DevOpsNinja/DryEarlyBlogs?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 
