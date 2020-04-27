@@ -83,7 +83,7 @@ If a = 1 then ~a = 0 or vice versa
 
 Hold on tight it is about to get a bit more complex trust me we can do this together.
 
- <iframe src="https://medium.com/media/1dec4e9790411b2158bbff6c06811ef6" frameborder=0></iframe>
+ <iframe src="https://giphy.com/embed/ZeLqYIfV6RvnptvRti" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loaf-loof-and-timmy-ZeLqYIfV6RvnptvRti">via GIPHY</a></p>
 
 
 
