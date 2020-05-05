@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aderito-xavier.com/sitemap.xml
