@@ -29,6 +29,9 @@ const Layout = ({
         <html lang="en" />
         <title>{title}</title>
         <meta property="og:site_name" content={title} />
+        <meta name="author" content="Aderito Xavier" />
+        <meta name="description" content={description} />
+        <meta name="keywords" content="Python, DevOps, Data Science, Mathematics, Javascript" />
         <meta property="og:image" content={metaImageUrl} />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content={title} />
