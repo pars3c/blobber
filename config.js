@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://aderito-xavier.com/',
   pathPrefix: '/',
   title: 'ADEV NINJA',
-  subtitle: 'SOFTWARE DEVELOPER | DEVOPS ASPIRANT | ROCKET LEAGUE PLAYER.',
+  subtitle: 'Your place for hidden technology tutorials. From Hashicorp beginner guides to Mathematics, Quantum Compunting, Javascript, Python, Videogame Development. If you want to learn technologies where the documentation is scarse this is the place.',
   copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
